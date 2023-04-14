@@ -1,0 +1,3 @@
+rootProject.name = 'Architecture'
+include 'API-Gateway'
+include 'Service-Discovery'
